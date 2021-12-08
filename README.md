@@ -1,8 +1,21 @@
 ## Lending Club Case study
 A very important area of risk analytics of banking and financial services is identifing risky applicants.This case study aims to provide us an idea of implementing EDA to figure out the solution for this problem. we will also develope a basic understanding of risk analytics in banking and financial services.
 
-
 ## Table of Contents
+* General information
+* Structure of case study
+* Conclusions
+* Technologies used
+* References
+* contact
+
+## General Information
+- As risk analytics is very important for the financial organization, we have done some univariate, bivariate as well as 
+  multivariate analysis for some important variables that is available to the orgainzation before approving the loan.
+- This case study gives you some interesting insights through which we can predict whether a customer will default or not.
+- We got a dataset from a lending club which has 111 different variables and 39717 rows of information. 
+
+## Structure of case study
 * Business understanding
 * Business objectives
 * Data understanding
@@ -20,13 +33,6 @@ A very important area of risk analytics of banking and financial services is ide
    1. Univariate Analysis
    2. Segmented and Bivariate Analysis
    3. Bivariate Analysis
-
-
-## General Information
-- As risk analytics is very important for the financial organization, we have done some univariate, bivariate as well as 
-  multivariate analysis for some important variables that is available to the orgainzation before approving the loan.
-- This case study gives you some interesting insights through which we can predict whether a customer will default or not.
-- We got a dataset from a lending club which has 111 different variables and 39717 rows of information. 
 
 ## Conclusions 
 
@@ -74,16 +80,14 @@ A very important area of risk analytics of banking and financial services is ide
 - seaborn library version 0.11.1
 - git version 2.34.0.windows.1
 
-## Acknowledgements 
-- References 
+## References
 1. https://www.project-default.com/data-exploration-1
 2. https://www.kaggle.com/gauravduttakiit/risk-analytics-in-banking-financial-services-1
 3. https://www.youtube.com/watch?v=nA9BK0PER2Y
+4. https://www.jigsawacademy.com/understanding-credit-risk-analytics/
 
 
 ## Contact
-Created by [https://github.com/Veneeshkrishnan] - feel free to contact me!
-
-## Members of team
+Created by [https://github.com/Veneeshkrishnan] - feel free to contact us!
 1. Kanchan bisht -  kanchanbisht1955@gmail.com
 2. Veneesh -  veneeshkrish96@gmail.com
